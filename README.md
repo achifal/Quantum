@@ -1,6 +1,6 @@
-![](https://yandex.by/images/search?text=Q%23%20microsoft&from=tabbar&pos=16&img_url=https%3A%2F%2Fhsto.org%2Fwebt%2Fu6%2Fww%2Fek%2Fu6wwekzaehta3qhmuojvtmc55ge.jpeg&rpt=simage)
+![Q#](https://yandex.by/images/search?text=Q%23%20microsoft&from=tabbar&pos=16&img_url=https%3A%2F%2Fhsto.org%2Fwebt%2Fu6%2Fww%2Fek%2Fu6wwekzaehta3qhmuojvtmc55ge.jpeg&rpt=simage)
 
-### Quantum programming on Q#
+### Quantum programming with Q#
 
 Here are my solutions from the competition organized by Microsoft.
 
