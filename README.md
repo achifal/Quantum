@@ -1,4 +1,4 @@
-h1 #Quantum programming on Q#
+### Quantum programming on Q#
 
 Here are my solutions from the competition organized by Microsoft.
 
