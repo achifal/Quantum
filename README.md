@@ -1,10 +1,4 @@
-![](https://hsto.org/webt/u6/ww/ek/u6wwekzaehta3qhmuojvtmc55ge.jpeg)
-
-### Quantum programming with Q#
-
-Here are my solutions from the competition organized by Microsoft.
-
-#### Task links:
+#### Tasks:
 
 [Microsoft Q# Coding Contest - Summer 2018 - Warmup](https://codeforces.com/contest/1001)
 
